@@ -1,5 +1,5 @@
-[![MasterHead]([https://i.pinimg.com/564x/51/93/05/5193051886aec698a8254eb1530952bf.jpg](https://i.pinimg.com/564x/40/1a/ac/401aacc4f4e4ce5ab9b64e2b781d4e13.jpg))
-<h1 align="center">My lucufiryy</h1>
+
+<h1 align="center"> lucufiryy</h1>
 <h3 align="center">ı'm number 1</h3>
 
 <h3 align="left">Connect with me:</h3>
